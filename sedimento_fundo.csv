@@ -1,33 +1,740 @@
-,identificacao_amostra,ponto,campanha,materia_organica_%,caco3_%
-0,EP1 - A,EP1,2° Resgate 2022,1.01,25.43
-1,EP1 - B,EP1,2° Resgate 2022,1.15,25.8
-2,EP2 - A,EP2,2° Resgate 2022,1.92,98.87
-3,EP2 - B,EP2,2° Resgate 2022,8.54,99.38
-4,EP1 - A,EP1,3° Resgate 2022,1.03,38.93
-5,EP1 - B,EP1,3° Resgate 2022,1.22,29.74
-6,EP2 - A,EP2,3° Resgate 2022,1.82,99.39
-7,EP2 - B,EP2,3° Resgate 2022,1.93,99.43
-8,EP1 - A,EP1,4° Resgate 2022,1.22,37.93
-9,EP1 - B,EP1,4° Resgate 2022,1.23,36.8
-10,EP2 - A,EP2,4° Resgate 2022,2.02,98.74
-11,EP2 - B,EP2,4° Resgate 2022,1.72,98.52
-12,EP1 - A,EP1,5° Resgate 2022,1.15,27.95
-13,EP1 - B,EP1,5° Resgate 2022,1.32,29.67
-14,EP2 - A,EP2,5° Resgate 2022,1.54,99.07
-15,EP2 - B,EP2,5° Resgate 2022,1.94,98.91
-16,EP1 - A,EP1,6° Resgate 2022,1.27,36.27
-17,EP1 - B,EP1,6° Resgate 2022,1.27,37.58
-18,EP2 - A,EP2,6° Resgate 2022,2.03,94.71
-19,EP2 - B,EP2,6° Resgate 2022,1.87,98.69
-20,EP1 - A,EP1,7° Resgate 2022,1.91,41.05
-21,EP1 - B,EP1,7° Resgate 2022,1.5,42.68
-22,EP2 - A,EP2,7° Resgate 2022,2.3,98.81
-23,EP2 - B,EP2,7° Resgate 2022,2.6,98.38
-24,EP1 - A,EP1,8° Resgate 2022,0.77,25.91
-25,EP1 - B,EP1,8° Resgate 2022,0.88,16.14
-26,EP2 - A,EP2,8° Resgate 2022,1.47,98.74
-27,EP2 - B,EP2,8° Resgate 2022,6.81,96.67
-28,EP1 - A,EP1,9° Resgate 2022,1.29,36.88
-29,EP1 - B,EP1,9° Resgate 2022,1.51,36.17
-30,EP2 - A,EP2,9° Resgate 2022,2.28,99.32
-31,EP2 - B,EP2,9° Resgate 2022,2.15,99.46
+campanha,ponto,identificacao_amostra,analise,resultado_%
+1° Resgate 2020,EP2,EP2 - A,Argila,0.0
+1° Resgate 2020,EP2,EP2 - A,Grânulos,10.76
+1° Resgate 2020,EP2,EP2 - A,Areia muito grossa,18.05
+1° Resgate 2020,EP2,EP2 - A,Areia fina,13.99
+1° Resgate 2020,EP2,EP2 - A,Silte fino,0.0
+1° Resgate 2020,EP2,EP2 - A,Silte médio,0.0
+1° Resgate 2020,EP2,EP2 - A,Silte grosso,0.04
+1° Resgate 2020,EP2,EP2 - A,CaCO3,98.18
+1° Resgate 2020,EP2,EP2 - A,Matéria orgânica,1.47
+1° Resgate 2020,EP2,EP2 - A,Areia muito fina,0.83
+1° Resgate 2020,EP2,EP2 - A,Silte muito fino,0.0
+1° Resgate 2020,EP2,EP2 - A,Areia média,29.03
+1° Resgate 2020,EP2,EP2 - A,Areia grossa,27.31
+1° Resgate 2020,EP2,EP2 - B,Silte médio,0.0
+1° Resgate 2020,EP2,EP2 - B,Silte fino,0.0
+1° Resgate 2020,EP2,EP2 - B,Argila,0.0
+1° Resgate 2020,EP2,EP2 - B,Grânulos,14.83
+1° Resgate 2020,EP2,EP2 - B,Silte grosso,0.0
+1° Resgate 2020,EP2,EP2 - B,Silte muito fino,0.0
+1° Resgate 2020,EP2,EP2 - B,CaCO3,97.95
+1° Resgate 2020,EP2,EP2 - B,Areia grossa,26.4
+1° Resgate 2020,EP2,EP2 - B,Areia muito fina,1.19
+1° Resgate 2020,EP2,EP2 - B,Areia fina,11.0
+1° Resgate 2020,EP2,EP2 - B,Areia média,28.21
+1° Resgate 2020,EP2,EP2 - B,Areia muito grossa,18.38
+1° Resgate 2020,EP2,EP2 - B,Matéria orgânica,1.83
+1° Resgate 2020,EP1,EP1 - A,Areia muito grossa,13.14
+1° Resgate 2020,EP1,EP1 - A,Silte médio,0.0
+1° Resgate 2020,EP1,EP1 - A,Areia grossa,48.17
+1° Resgate 2020,EP1,EP1 - A,Areia média,25.16
+1° Resgate 2020,EP1,EP1 - A,Areia fina,7.26
+1° Resgate 2020,EP1,EP1 - A,Areia muito fina,1.76
+1° Resgate 2020,EP1,EP1 - A,Matéria orgânica,0.82
+1° Resgate 2020,EP1,EP1 - A,CaCO3,28.89
+1° Resgate 2020,EP1,EP1 - A,Silte grosso,0.0
+1° Resgate 2020,EP1,EP1 - A,Silte fino,0.0
+1° Resgate 2020,EP1,EP1 - A,Silte muito fino,0.0
+1° Resgate 2020,EP1,EP1 - A,Grânulos,4.51
+1° Resgate 2020,EP1,EP1 - A,Argila,0.0
+1° Resgate 2020,EP1,EP1 - B,Argila,0.0
+1° Resgate 2020,EP1,EP1 - B,Areia grossa,39.76
+1° Resgate 2020,EP1,EP1 - B,Grânulos,6.68
+1° Resgate 2020,EP1,EP1 - B,Areia muito grossa,13.41
+1° Resgate 2020,EP1,EP1 - B,Silte fino,0.0
+1° Resgate 2020,EP1,EP1 - B,Silte médio,0.0
+1° Resgate 2020,EP1,EP1 - B,Silte grosso,0.0
+1° Resgate 2020,EP1,EP1 - B,Silte muito fino,0.0
+1° Resgate 2020,EP1,EP1 - B,Matéria orgânica,0.89
+1° Resgate 2020,EP1,EP1 - B,Areia muito fina,1.42
+1° Resgate 2020,EP1,EP1 - B,Areia fina,9.33
+1° Resgate 2020,EP1,EP1 - B,Areia média,29.4
+1° Resgate 2020,EP1,EP1 - B,CaCO3,46.93
+2° Resgate 2020,EP1,EP1 - A,Silte médio,0.0
+2° Resgate 2020,EP1,EP1 - A,Argila,0.0
+2° Resgate 2020,EP1,EP1 - A,Grânulos,1.83
+2° Resgate 2020,EP1,EP1 - A,Silte muito fino,0.0
+2° Resgate 2020,EP1,EP1 - A,Silte fino,0.0
+2° Resgate 2020,EP1,EP1 - A,Silte grosso,0.0
+2° Resgate 2020,EP1,EP1 - A,CaCO3,25.68
+2° Resgate 2020,EP1,EP1 - A,Matéria orgânica,2.69
+2° Resgate 2020,EP1,EP1 - A,Areia muito fina,1.64
+2° Resgate 2020,EP1,EP1 - A,Areia fina,6.83
+2° Resgate 2020,EP1,EP1 - A,Areia média,25.24
+2° Resgate 2020,EP1,EP1 - A,Areia grossa,51.29
+2° Resgate 2020,EP1,EP1 - A,Areia muito grossa,13.18
+2° Resgate 2020,EP1,EP1 - B,Areia muito grossa,14.14
+2° Resgate 2020,EP1,EP1 - B,Areia grossa,47.35
+2° Resgate 2020,EP1,EP1 - B,Areia média,21.03
+2° Resgate 2020,EP1,EP1 - B,Areia fina,6.77
+2° Resgate 2020,EP1,EP1 - B,Areia muito fina,2.46
+2° Resgate 2020,EP1,EP1 - B,Matéria orgânica,1.13
+2° Resgate 2020,EP1,EP1 - B,CaCO3,27.99
+2° Resgate 2020,EP1,EP1 - B,Silte grosso,0.15
+2° Resgate 2020,EP1,EP1 - B,Silte médio,0.0
+2° Resgate 2020,EP1,EP1 - B,Silte fino,0.0
+2° Resgate 2020,EP1,EP1 - B,Silte muito fino,0.0
+2° Resgate 2020,EP1,EP1 - B,Grânulos,8.1
+2° Resgate 2020,EP1,EP1 - B,Argila,0.0
+2° Resgate 2020,EP2,EP2 - A,Areia muito grossa,10.25
+2° Resgate 2020,EP2,EP2 - A,Areia grossa,45.75
+2° Resgate 2020,EP2,EP2 - A,Areia média,26.93
+2° Resgate 2020,EP2,EP2 - A,Areia fina,9.05
+2° Resgate 2020,EP2,EP2 - A,Areia muito fina,3.1
+2° Resgate 2020,EP2,EP2 - A,Matéria orgânica,1.31
+2° Resgate 2020,EP2,EP2 - A,CaCO3,30.91
+2° Resgate 2020,EP2,EP2 - A,Silte grosso,0.0
+2° Resgate 2020,EP2,EP2 - A,Silte médio,0.0
+2° Resgate 2020,EP2,EP2 - A,Silte fino,0.0
+2° Resgate 2020,EP2,EP2 - A,Silte muito fino,0.0
+2° Resgate 2020,EP2,EP2 - A,Argila,0.0
+2° Resgate 2020,EP2,EP2 - A,Grânulos,4.92
+1° Resgate 2022,EP1,EP1 - B,Areia muito grossa,10.73
+1° Resgate 2022,EP1,EP1 - B,Cascalho muito fino,9.71
+1° Resgate 2022,EP1,EP1 - B,Cascalho fino,0.0
+1° Resgate 2022,EP1,EP1 - B,Cascalho médio,0.0
+1° Resgate 2022,EP1,EP1 - B,Cascalho muito grosso,0.0
+1° Resgate 2022,EP1,EP1 - A,Argila,1.03
+1° Resgate 2022,EP1,EP1 - A,Silte muito fino,1.07
+1° Resgate 2022,EP1,EP1 - A,Silte fino,0.08
+1° Resgate 2022,EP1,EP1 - A,Silte médio,0.01
+1° Resgate 2022,EP1,EP1 - A,Silte grosso,0.21
+1° Resgate 2022,EP1,EP1 - A,Silte muito grosso,0.0
+1° Resgate 2022,EP1,EP1 - A,CaCO3,34.48
+1° Resgate 2022,EP1,EP1 - A,Matéria orgânica,3.48
+1° Resgate 2022,EP1,EP1 - A,Cascalho grosso,0.0
+1° Resgate 2022,EP1,EP1 - B,Argila,1.32
+1° Resgate 2022,EP1,EP1 - B,Silte muito fino,1.36
+1° Resgate 2022,EP1,EP1 - B,Silte fino,0.36
+1° Resgate 2022,EP1,EP1 - B,Silte médio,0.04
+1° Resgate 2022,EP1,EP1 - B,Silte grosso,0.21
+1° Resgate 2022,EP1,EP1 - B,Silte muito grosso,0.23
+1° Resgate 2022,EP1,EP1 - B,Matéria orgânica,1.13
+1° Resgate 2022,EP1,EP1 - B,Cascalho grosso,0.0
+1° Resgate 2022,EP1,EP1 - B,Areia muito fina,2.63
+1° Resgate 2022,EP1,EP1 - B,Areia fina,10.87
+1° Resgate 2022,EP1,EP1 - B,Areia média,24.68
+1° Resgate 2022,EP1,EP1 - B,Areia grossa,37.85
+1° Resgate 2022,EP1,EP1 - B,CaCO3,34.36
+1° Resgate 2022,EP1,EP1 - A,Areia muito fina,1.74
+1° Resgate 2022,EP1,EP1 - A,Areia fina,12.91
+1° Resgate 2022,EP1,EP1 - A,Cascalho muito grosso,0.0
+1° Resgate 2022,EP1,EP1 - A,Cascalho médio,0.0
+1° Resgate 2022,EP1,EP1 - A,Cascalho fino,0.0
+1° Resgate 2022,EP1,EP1 - A,Cascalho muito fino,4.77
+1° Resgate 2022,EP1,EP1 - A,Areia muito grossa,11.03
+1° Resgate 2022,EP1,EP1 - A,Areia grossa,37.17
+1° Resgate 2022,EP1,EP1 - A,Areia média,29.97
+1° Resgate 2022,EP2,EP2 - A,CaCO3,99.17
+1° Resgate 2022,EP2,EP2 - A,Matéria orgânica,2.94
+1° Resgate 2022,EP2,EP2 - A,Cascalho grosso,0.0
+1° Resgate 2022,EP2,EP2 - A,Areia muito fina,1.12
+1° Resgate 2022,EP2,EP2 - A,Areia fina,12.8
+1° Resgate 2022,EP2,EP2 - A,Areia média,30.82
+1° Resgate 2022,EP2,EP2 - A,Cascalho muito fino,9.63
+1° Resgate 2022,EP2,EP2 - A,Areia muito grossa,17.95
+1° Resgate 2022,EP2,EP2 - A,Cascalho fino,0.0
+1° Resgate 2022,EP2,EP2 - A,Cascalho médio,0.0
+1° Resgate 2022,EP2,EP2 - A,Cascalho muito grosso,0.0
+1° Resgate 2022,EP2,EP2 - A,Areia grossa,25.59
+1° Resgate 2022,EP2,EP2 - A,Silte muito grosso,0.18
+1° Resgate 2022,EP2,EP2 - A,Silte grosso,0.13
+1° Resgate 2022,EP2,EP2 - B,CaCO3,98.93
+1° Resgate 2022,EP2,EP2 - B,Matéria orgânica,1.61
+1° Resgate 2022,EP2,EP2 - B,Cascalho grosso,0.0
+1° Resgate 2022,EP2,EP2 - B,Areia muito fina,0.9
+1° Resgate 2022,EP2,EP2 - B,Areia fina,10.51
+1° Resgate 2022,EP2,EP2 - B,Areia média,28.97
+1° Resgate 2022,EP2,EP2 - B,Areia muito grossa,18.52
+1° Resgate 2022,EP2,EP2 - B,Cascalho muito fino,11.36
+1° Resgate 2022,EP2,EP2 - B,Cascalho fino,0.0
+1° Resgate 2022,EP2,EP2 - B,Cascalho médio,0.0
+1° Resgate 2022,EP2,EP2 - B,Cascalho muito grosso,0.0
+1° Resgate 2022,EP2,EP2 - A,Argila,0.78
+1° Resgate 2022,EP2,EP2 - A,Silte muito fino,0.81
+1° Resgate 2022,EP2,EP2 - A,Silte fino,0.17
+1° Resgate 2022,EP2,EP2 - A,Silte médio,0.02
+1° Resgate 2022,EP2,EP2 - B,Areia grossa,27.72
+1° Resgate 2022,EP2,EP2 - B,Silte grosso,0.07
+1° Resgate 2022,EP2,EP2 - B,Argila,0.87
+1° Resgate 2022,EP2,EP2 - B,Silte muito fino,0.9
+1° Resgate 2022,EP2,EP2 - B,Silte fino,0.03
+1° Resgate 2022,EP2,EP2 - B,Silte médio,0.14
+1° Resgate 2022,EP2,EP2 - B,Silte muito grosso,0.0
+2° Resgate 2022,EP1,EP1 - A,Cascalho muito grosso,0.0
+2° Resgate 2022,EP1,EP1 - B,Areia fina,6.28
+2° Resgate 2022,EP1,EP1 - B,Areia média,18.84
+2° Resgate 2022,EP1,EP1 - B,Areia grossa,52.22
+2° Resgate 2022,EP1,EP1 - B,Areia muito grossa,16.58
+2° Resgate 2022,EP1,EP1 - B,Cascalho muito fino,1.96
+2° Resgate 2022,EP1,EP1 - B,Cascalho fino,0.0
+2° Resgate 2022,EP1,EP1 - B,Cascalho médio,0.0
+2° Resgate 2022,EP1,EP1 - B,Cascalho muito grosso,0.0
+2° Resgate 2022,EP1,EP1 - A,Cascalho médio,0.0
+2° Resgate 2022,EP1,EP1 - A,Cascalho fino,0.0
+2° Resgate 2022,EP1,EP1 - A,Cascalho muito fino,2.72
+2° Resgate 2022,EP1,EP1 - A,Areia muito grossa,16.15
+2° Resgate 2022,EP1,EP1 - A,Areia grossa,52.46
+2° Resgate 2022,EP1,EP1 - A,Areia média,17.6
+2° Resgate 2022,EP1,EP1 - B,Areia muito fina,1.47
+2° Resgate 2022,EP1,EP1 - A,Areia fina,6.79
+2° Resgate 2022,EP1,EP1 - A,Cascalho grosso,0.0
+2° Resgate 2022,EP1,EP1 - A,Matéria orgânica,1.01
+2° Resgate 2022,EP1,EP1 - A,CaCO3,25.43
+2° Resgate 2022,EP1,EP1 - A,Silte muito grosso,0.0
+2° Resgate 2022,EP1,EP1 - A,Silte grosso,0.14
+2° Resgate 2022,EP1,EP1 - A,Silte médio,0.04
+2° Resgate 2022,EP1,EP1 - A,Silte fino,0.11
+2° Resgate 2022,EP1,EP1 - A,Silte muito fino,1.2
+2° Resgate 2022,EP1,EP1 - A,Argila,1.16
+2° Resgate 2022,EP1,EP1 - A,Areia muito fina,1.64
+2° Resgate 2022,EP1,EP1 - B,Cascalho grosso,0.0
+2° Resgate 2022,EP1,EP1 - B,Matéria orgânica,1.15
+2° Resgate 2022,EP1,EP1 - B,CaCO3,25.8
+2° Resgate 2022,EP1,EP1 - B,Silte muito grosso,0.0
+2° Resgate 2022,EP1,EP1 - B,Silte grosso,0.16
+2° Resgate 2022,EP1,EP1 - B,Silte médio,0.07
+2° Resgate 2022,EP1,EP1 - B,Silte fino,0.14
+2° Resgate 2022,EP1,EP1 - B,Argila,1.12
+2° Resgate 2022,EP1,EP1 - B,Silte muito fino,1.16
+2° Resgate 2022,EP2,EP2 - A,Argila,0.94
+2° Resgate 2022,EP2,EP2 - A,Silte muito fino,0.97
+2° Resgate 2022,EP2,EP2 - A,Silte fino,0.18
+2° Resgate 2022,EP2,EP2 - A,Silte médio,0.04
+2° Resgate 2022,EP2,EP2 - A,Silte grosso,0.18
+2° Resgate 2022,EP2,EP2 - B,Cascalho muito grosso,0.0
+2° Resgate 2022,EP2,EP2 - B,Cascalho médio,0.0
+2° Resgate 2022,EP2,EP2 - B,Cascalho fino,0.0
+2° Resgate 2022,EP2,EP2 - B,Cascalho muito fino,9.9
+2° Resgate 2022,EP2,EP2 - B,Areia muito grossa,17.5
+2° Resgate 2022,EP2,EP2 - B,Areia grossa,22.37
+2° Resgate 2022,EP2,EP2 - B,Areia média,28.41
+2° Resgate 2022,EP2,EP2 - B,Areia fina,17.18
+2° Resgate 2022,EP2,EP2 - B,Areia muito fina,2.34
+2° Resgate 2022,EP2,EP2 - B,Cascalho grosso,0.0
+2° Resgate 2022,EP2,EP2 - B,Matéria orgânica,8.54
+2° Resgate 2022,EP2,EP2 - B,Silte muito grosso,0.02
+2° Resgate 2022,EP2,EP2 - B,Silte grosso,0.16
+2° Resgate 2022,EP2,EP2 - B,Silte médio,0.03
+2° Resgate 2022,EP2,EP2 - B,Silte fino,0.19
+2° Resgate 2022,EP2,EP2 - B,Silte muito fino,0.96
+2° Resgate 2022,EP2,EP2 - B,Argila,0.93
+2° Resgate 2022,EP2,EP2 - A,Cascalho muito grosso,0.0
+2° Resgate 2022,EP2,EP2 - A,Cascalho médio,0.0
+2° Resgate 2022,EP2,EP2 - A,Cascalho fino,0.0
+2° Resgate 2022,EP2,EP2 - B,CaCO3,99.38
+2° Resgate 2022,EP2,EP2 - A,Cascalho muito fino,11.99
+2° Resgate 2022,EP2,EP2 - A,CaCO3,98.87
+2° Resgate 2022,EP2,EP2 - A,Silte muito grosso,0.0
+2° Resgate 2022,EP2,EP2 - A,Areia muito grossa,19.54
+2° Resgate 2022,EP2,EP2 - A,Areia média,26.35
+2° Resgate 2022,EP2,EP2 - A,Areia fina,15.37
+2° Resgate 2022,EP2,EP2 - A,Areia muito fina,2.43
+2° Resgate 2022,EP2,EP2 - A,Cascalho grosso,0.0
+2° Resgate 2022,EP2,EP2 - A,Areia grossa,22.02
+2° Resgate 2022,EP2,EP2 - A,Matéria orgânica,1.92
+3° Resgate 2022,EP2,EP2 - B,Silte grosso,0.21
+3° Resgate 2022,EP2,EP2 - B,Silte muito grosso,0.0
+3° Resgate 2022,EP2,EP2 - B,CaCO3,99.43
+3° Resgate 2022,EP2,EP2 - B,Matéria orgânica,1.93
+3° Resgate 2022,EP2,EP2 - B,Cascalho grosso,0.0
+3° Resgate 2022,EP2,EP2 - B,Areia muito fina,0.91
+3° Resgate 2022,EP2,EP2 - B,Areia fina,10.57
+3° Resgate 2022,EP2,EP2 - B,Areia média,23.49
+3° Resgate 2022,EP2,EP2 - B,Areia grossa,24.17
+3° Resgate 2022,EP2,EP2 - B,Areia muito grossa,24.87
+3° Resgate 2022,EP2,EP2 - B,Cascalho muito fino,13.64
+3° Resgate 2022,EP2,EP2 - B,Silte médio,0.08
+3° Resgate 2022,EP2,EP2 - B,Cascalho fino,0.0
+3° Resgate 2022,EP2,EP2 - B,Cascalho muito grosso,0.0
+3° Resgate 2022,EP2,EP2 - B,Cascalho médio,0.0
+3° Resgate 2022,EP2,EP2 - B,Silte fino,0.04
+3° Resgate 2022,EP2,EP2 - B,Argila,0.99
+3° Resgate 2022,EP2,EP2 - A,Argila,0.82
+3° Resgate 2022,EP2,EP2 - A,Silte muito fino,0.85
+3° Resgate 2022,EP2,EP2 - A,Silte fino,0.03
+3° Resgate 2022,EP2,EP2 - A,Silte médio,0.31
+3° Resgate 2022,EP2,EP2 - B,Silte muito fino,1.03
+3° Resgate 2022,EP2,EP2 - A,Silte grosso,0.01
+3° Resgate 2022,EP2,EP2 - A,CaCO3,99.39
+3° Resgate 2022,EP2,EP2 - A,Matéria orgânica,1.82
+3° Resgate 2022,EP2,EP2 - A,Cascalho grosso,0.0
+3° Resgate 2022,EP2,EP2 - A,Areia muito fina,2.37
+3° Resgate 2022,EP2,EP2 - A,Areia fina,20.22
+3° Resgate 2022,EP2,EP2 - A,Areia média,28.58
+3° Resgate 2022,EP2,EP2 - A,Areia grossa,21.31
+3° Resgate 2022,EP2,EP2 - A,Areia muito grossa,17.45
+3° Resgate 2022,EP2,EP2 - A,Cascalho muito fino,8.03
+3° Resgate 2022,EP2,EP2 - A,Cascalho fino,0.0
+3° Resgate 2022,EP2,EP2 - A,Cascalho médio,0.0
+3° Resgate 2022,EP2,EP2 - A,Cascalho muito grosso,0.0
+3° Resgate 2022,EP2,EP2 - A,Silte muito grosso,0.03
+3° Resgate 2022,EP1,EP1 - B,Argila,0.95
+3° Resgate 2022,EP1,EP1 - B,Silte muito fino,0.98
+3° Resgate 2022,EP1,EP1 - B,Silte fino,0.06
+3° Resgate 2022,EP1,EP1 - B,Silte médio,0.14
+3° Resgate 2022,EP1,EP1 - B,Silte grosso,0.34
+3° Resgate 2022,EP1,EP1 - B,Silte muito grosso,0.0
+3° Resgate 2022,EP1,EP1 - B,CaCO3,29.74
+3° Resgate 2022,EP1,EP1 - B,Cascalho grosso,0.0
+3° Resgate 2022,EP1,EP1 - B,Matéria orgânica,1.22
+3° Resgate 2022,EP1,EP1 - A,Silte médio,0.11
+3° Resgate 2022,EP1,EP1 - A,Silte fino,0.09
+3° Resgate 2022,EP1,EP1 - A,Silte muito fino,0.94
+3° Resgate 2022,EP1,EP1 - A,Argila,0.9
+3° Resgate 2022,EP1,EP1 - B,Cascalho muito grosso,0.0
+3° Resgate 2022,EP1,EP1 - B,Cascalho médio,0.0
+3° Resgate 2022,EP1,EP1 - A,Silte grosso,0.13
+3° Resgate 2022,EP1,EP1 - B,Cascalho fino,0.0
+3° Resgate 2022,EP1,EP1 - B,Areia muito grossa,16.85
+3° Resgate 2022,EP1,EP1 - B,Areia grossa,43.43
+3° Resgate 2022,EP1,EP1 - B,Areia média,22.04
+3° Resgate 2022,EP1,EP1 - B,Areia fina,7.62
+3° Resgate 2022,EP1,EP1 - B,Areia muito fina,1.7
+3° Resgate 2022,EP1,EP1 - B,Cascalho muito fino,5.9
+3° Resgate 2022,EP1,EP1 - A,Silte muito grosso,0.0
+3° Resgate 2022,EP1,EP1 - A,Cascalho muito grosso,0.0
+3° Resgate 2022,EP1,EP1 - A,Cascalho médio,0.0
+3° Resgate 2022,EP1,EP1 - A,Cascalho fino,0.0
+3° Resgate 2022,EP1,EP1 - A,Cascalho muito fino,12.7
+3° Resgate 2022,EP1,EP1 - A,Areia muito grossa,16.56
+3° Resgate 2022,EP1,EP1 - A,Areia grossa,37.77
+3° Resgate 2022,EP1,EP1 - A,Areia fina,7.47
+3° Resgate 2022,EP1,EP1 - A,Areia muito fina,1.45
+3° Resgate 2022,EP1,EP1 - A,Cascalho grosso,0.0
+3° Resgate 2022,EP1,EP1 - A,Matéria orgânica,1.03
+3° Resgate 2022,EP1,EP1 - A,CaCO3,38.93
+3° Resgate 2022,EP1,EP1 - A,Areia média,21.87
+4° Resgate 2022,EP2,EP2 - A,Argila,0.49
+4° Resgate 2022,EP2,EP2 - A,Silte muito fino,0.51
+4° Resgate 2022,EP2,EP2 - A,Silte fino,0.03
+4° Resgate 2022,EP2,EP2 - A,Silte médio,0.07
+4° Resgate 2022,EP2,EP2 - A,Silte grosso,0.13
+4° Resgate 2022,EP2,EP2 - B,Areia fina,12.23
+4° Resgate 2022,EP2,EP2 - B,Areia média,22.34
+4° Resgate 2022,EP2,EP2 - B,Areia grossa,26.32
+4° Resgate 2022,EP2,EP2 - B,Areia muito grossa,21.63
+4° Resgate 2022,EP2,EP2 - B,Cascalho muito fino,14.84
+4° Resgate 2022,EP2,EP2 - B,Cascalho fino,0.0
+4° Resgate 2022,EP2,EP2 - B,Cascalho médio,0.0
+4° Resgate 2022,EP2,EP2 - B,Cascalho muito grosso,0.0
+4° Resgate 2022,EP2,EP2 - A,Areia muito grossa,16.75
+4° Resgate 2022,EP2,EP2 - A,Areia grossa,28.7
+4° Resgate 2022,EP2,EP2 - A,Cascalho muito grosso,0.0
+4° Resgate 2022,EP2,EP2 - A,Cascalho médio,0.0
+4° Resgate 2022,EP2,EP2 - A,Cascalho fino,0.0
+4° Resgate 2022,EP2,EP2 - A,Cascalho muito fino,10.73
+4° Resgate 2022,EP2,EP2 - A,Areia média,26.53
+4° Resgate 2022,EP2,EP2 - A,Areia muito fina,1.92
+4° Resgate 2022,EP2,EP2 - B,Areia muito fina,1.43
+4° Resgate 2022,EP2,EP2 - A,Areia fina,14.1
+4° Resgate 2022,EP2,EP2 - A,Silte muito grosso,0.03
+4° Resgate 2022,EP2,EP2 - A,CaCO3,98.74
+4° Resgate 2022,EP2,EP2 - A,Matéria orgânica,2.02
+4° Resgate 2022,EP2,EP2 - A,Cascalho grosso,0.0
+4° Resgate 2022,EP2,EP2 - B,Cascalho grosso,0.0
+4° Resgate 2022,EP2,EP2 - B,CaCO3,98.52
+4° Resgate 2022,EP2,EP2 - B,Silte muito fino,0.48
+4° Resgate 2022,EP2,EP2 - B,Matéria orgânica,1.72
+4° Resgate 2022,EP2,EP2 - B,Argila,0.46
+4° Resgate 2022,EP2,EP2 - B,Silte fino,0.03
+4° Resgate 2022,EP2,EP2 - B,Silte médio,0.03
+4° Resgate 2022,EP2,EP2 - B,Silte grosso,0.14
+4° Resgate 2022,EP2,EP2 - B,Silte muito grosso,0.05
+4° Resgate 2022,EP1,EP1 - B,Areia fina,12.06
+4° Resgate 2022,EP1,EP1 - B,Areia média,27.37
+4° Resgate 2022,EP1,EP1 - B,Areia grossa,41.16
+4° Resgate 2022,EP1,EP1 - B,Areia muito grossa,12.58
+4° Resgate 2022,EP1,EP1 - B,Cascalho muito fino,3.67
+4° Resgate 2022,EP1,EP1 - B,Cascalho fino,0.0
+4° Resgate 2022,EP1,EP1 - B,Areia muito fina,1.6
+4° Resgate 2022,EP1,EP1 - B,Cascalho médio,0.0
+4° Resgate 2022,EP1,EP1 - B,Cascalho muito grosso,0.0
+4° Resgate 2022,EP1,EP1 - B,Cascalho grosso,0.0
+4° Resgate 2022,EP1,EP1 - B,CaCO3,36.8
+4° Resgate 2022,EP1,EP1 - B,Argila,0.61
+4° Resgate 2022,EP1,EP1 - B,Matéria orgânica,1.23
+4° Resgate 2022,EP1,EP1 - B,Silte muito fino,0.63
+4° Resgate 2022,EP1,EP1 - B,Silte médio,0.09
+4° Resgate 2022,EP1,EP1 - B,Silte grosso,0.09
+4° Resgate 2022,EP1,EP1 - B,Silte muito grosso,0.07
+4° Resgate 2022,EP1,EP1 - B,Silte fino,0.06
+4° Resgate 2022,EP1,EP1 - A,Areia média,29.41
+4° Resgate 2022,EP1,EP1 - A,Areia grossa,36.39
+4° Resgate 2022,EP1,EP1 - A,Areia muito grossa,9.25
+4° Resgate 2022,EP1,EP1 - A,Cascalho muito fino,6.18
+4° Resgate 2022,EP1,EP1 - A,Cascalho fino,0.0
+4° Resgate 2022,EP1,EP1 - A,Cascalho médio,0.0
+4° Resgate 2022,EP1,EP1 - A,Areia fina,14.63
+4° Resgate 2022,EP1,EP1 - A,Cascalho muito grosso,0.0
+4° Resgate 2022,EP1,EP1 - A,Areia muito fina,2.27
+4° Resgate 2022,EP1,EP1 - A,Cascalho grosso,0.0
+4° Resgate 2022,EP1,EP1 - A,Matéria orgânica,1.22
+4° Resgate 2022,EP1,EP1 - A,Argila,0.69
+4° Resgate 2022,EP1,EP1 - A,Silte muito fino,0.72
+4° Resgate 2022,EP1,EP1 - A,Silte fino,0.16
+4° Resgate 2022,EP1,EP1 - A,Silte médio,0.1
+4° Resgate 2022,EP1,EP1 - A,Silte grosso,0.15
+4° Resgate 2022,EP1,EP1 - A,Silte muito grosso,0.04
+4° Resgate 2022,EP1,EP1 - A,CaCO3,37.93
+5° Resgate 2022,EP2,EP2 - A,Argila,0.86
+5° Resgate 2022,EP2,EP2 - B,Silte grosso,0.12
+5° Resgate 2022,EP2,EP2 - B,Silte muito grosso,0.0
+5° Resgate 2022,EP2,EP2 - B,CaCO3,98.91
+5° Resgate 2022,EP2,EP2 - B,Matéria orgânica,1.94
+5° Resgate 2022,EP2,EP2 - B,Cascalho grosso,0.0
+5° Resgate 2022,EP2,EP2 - B,Areia muito fina,1.24
+5° Resgate 2022,EP2,EP2 - B,Areia fina,11.14
+5° Resgate 2022,EP2,EP2 - B,Silte médio,0.1
+5° Resgate 2022,EP2,EP2 - B,Areia média,26.09
+5° Resgate 2022,EP2,EP2 - B,Areia muito grossa,19.99
+5° Resgate 2022,EP2,EP2 - B,Cascalho muito fino,4.02
+5° Resgate 2022,EP2,EP2 - B,Cascalho fino,0.0
+5° Resgate 2022,EP2,EP2 - B,Cascalho médio,0.0
+5° Resgate 2022,EP2,EP2 - B,Cascalho muito grosso,0.0
+5° Resgate 2022,EP2,EP2 - A,Silte muito fino,0.89
+5° Resgate 2022,EP2,EP2 - A,Silte fino,0.09
+5° Resgate 2022,EP2,EP2 - A,Silte médio,0.08
+5° Resgate 2022,EP2,EP2 - A,Silte grosso,0.1
+5° Resgate 2022,EP2,EP2 - B,Areia grossa,35.67
+5° Resgate 2022,EP2,EP2 - B,Silte fino,0.11
+5° Resgate 2022,EP2,EP2 - B,Silte muito fino,0.78
+5° Resgate 2022,EP2,EP2 - B,Argila,0.75
+5° Resgate 2022,EP2,EP2 - A,Silte muito grosso,0.12
+5° Resgate 2022,EP2,EP2 - A,CaCO3,99.07
+5° Resgate 2022,EP2,EP2 - A,Matéria orgânica,1.54
+5° Resgate 2022,EP2,EP2 - A,Cascalho grosso,0.0
+5° Resgate 2022,EP2,EP2 - A,Areia muito fina,1.28
+5° Resgate 2022,EP2,EP2 - A,Areia fina,12.7
+5° Resgate 2022,EP2,EP2 - A,Areia média,27.6
+5° Resgate 2022,EP2,EP2 - A,Areia grossa,33.31
+5° Resgate 2022,EP2,EP2 - A,Areia muito grossa,17.05
+5° Resgate 2022,EP2,EP2 - A,Cascalho muito fino,5.9
+5° Resgate 2022,EP2,EP2 - A,Cascalho fino,0.0
+5° Resgate 2022,EP2,EP2 - A,Cascalho médio,0.0
+5° Resgate 2022,EP2,EP2 - A,Cascalho muito grosso,0.0
+5° Resgate 2022,EP1,EP1 - A,Cascalho muito grosso,0.0
+5° Resgate 2022,EP1,EP1 - B,Argila,0.84
+5° Resgate 2022,EP1,EP1 - B,Silte muito fino,0.87
+5° Resgate 2022,EP1,EP1 - B,Silte fino,0.23
+5° Resgate 2022,EP1,EP1 - B,Silte grosso,0.16
+5° Resgate 2022,EP1,EP1 - B,Silte muito grosso,0.01
+5° Resgate 2022,EP1,EP1 - A,CaCO3,27.95
+5° Resgate 2022,EP1,EP1 - A,Matéria orgânica,1.15
+5° Resgate 2022,EP1,EP1 - A,Cascalho grosso,0.0
+5° Resgate 2022,EP1,EP1 - A,Areia muito fina,1.85
+5° Resgate 2022,EP1,EP1 - A,Areia fina,7.27
+5° Resgate 2022,EP1,EP1 - A,Areia média,20.07
+5° Resgate 2022,EP1,EP1 - A,Areia grossa,50.47
+5° Resgate 2022,EP1,EP1 - A,Areia muito grossa,12.9
+5° Resgate 2022,EP1,EP1 - A,Cascalho muito fino,5.17
+5° Resgate 2022,EP1,EP1 - A,Cascalho fino,0.0
+5° Resgate 2022,EP1,EP1 - A,Cascalho médio,0.0
+5° Resgate 2022,EP1,EP1 - A,Silte muito grosso,0.06
+5° Resgate 2022,EP1,EP1 - B,CaCO3,29.67
+5° Resgate 2022,EP1,EP1 - B,Matéria orgânica,1.32
+5° Resgate 2022,EP1,EP1 - B,Cascalho grosso,0.0
+5° Resgate 2022,EP1,EP1 - B,Areia muito fina,1.84
+5° Resgate 2022,EP1,EP1 - B,Areia fina,10.49
+5° Resgate 2022,EP1,EP1 - B,Areia média,24.32
+5° Resgate 2022,EP1,EP1 - B,Areia grossa,45.71
+5° Resgate 2022,EP1,EP1 - B,Areia muito grossa,13.0
+5° Resgate 2022,EP1,EP1 - B,Cascalho fino,0.0
+5° Resgate 2022,EP1,EP1 - B,Cascalho médio,0.0
+5° Resgate 2022,EP1,EP1 - B,Cascalho muito grosso,0.0
+5° Resgate 2022,EP1,EP1 - A,Argila,0.86
+5° Resgate 2022,EP1,EP1 - A,Silte muito fino,0.89
+5° Resgate 2022,EP1,EP1 - A,Silte fino,0.2
+5° Resgate 2022,EP1,EP1 - A,Silte médio,0.15
+5° Resgate 2022,EP1,EP1 - A,Silte grosso,0.11
+5° Resgate 2022,EP1,EP1 - B,Cascalho muito fino,2.45
+5° Resgate 2022,EP1,EP1 - B,Silte médio,0.08
+6° Resgate 2022,EP2,EP2 - A,Argila,0.95
+6° Resgate 2022,EP2,EP2 - A,Silte muito fino,0.99
+6° Resgate 2022,EP2,EP2 - A,Silte fino,0.05
+6° Resgate 2022,EP2,EP2 - A,Silte médio,0.06
+6° Resgate 2022,EP2,EP2 - A,Silte grosso,0.06
+6° Resgate 2022,EP2,EP2 - A,Silte muito grosso,0.03
+6° Resgate 2022,EP2,EP2 - A,Matéria orgânica,2.03
+6° Resgate 2022,EP2,EP2 - A,CaCO3,94.71
+6° Resgate 2022,EP2,EP2 - A,Cascalho grosso,0.0
+6° Resgate 2022,EP2,EP2 - A,Areia muito fina,1.08
+6° Resgate 2022,EP2,EP2 - A,Areia fina,10.06
+6° Resgate 2022,EP2,EP2 - A,Areia grossa,32.07
+6° Resgate 2022,EP2,EP2 - A,Areia muito grossa,20.75
+6° Resgate 2022,EP2,EP2 - A,Cascalho muito fino,8.95
+6° Resgate 2022,EP2,EP2 - A,Cascalho fino,0.0
+6° Resgate 2022,EP2,EP2 - A,Cascalho médio,0.0
+6° Resgate 2022,EP2,EP2 - A,Cascalho muito grosso,0.0
+6° Resgate 2022,EP2,EP2 - A,Areia média,24.92
+6° Resgate 2022,EP2,EP2 - B,Cascalho médio,0.0
+6° Resgate 2022,EP2,EP2 - B,CaCO3,98.69
+6° Resgate 2022,EP2,EP2 - B,Areia grossa,22.44
+6° Resgate 2022,EP2,EP2 - B,Areia média,24.61
+6° Resgate 2022,EP2,EP2 - B,Areia fina,12.12
+6° Resgate 2022,EP2,EP2 - B,Areia muito fina,1.15
+6° Resgate 2022,EP2,EP2 - B,Cascalho grosso,0.0
+6° Resgate 2022,EP2,EP2 - B,Matéria orgânica,1.87
+6° Resgate 2022,EP2,EP2 - B,Cascalho fino,0.0
+6° Resgate 2022,EP2,EP2 - B,Silte muito grosso,0.0
+6° Resgate 2022,EP2,EP2 - B,Silte grosso,0.09
+6° Resgate 2022,EP2,EP2 - B,Silte médio,0.07
+6° Resgate 2022,EP2,EP2 - B,Silte fino,0.06
+6° Resgate 2022,EP2,EP2 - B,Silte muito fino,0.91
+6° Resgate 2022,EP2,EP2 - B,Argila,0.88
+6° Resgate 2022,EP2,EP2 - B,Cascalho muito grosso,0.0
+6° Resgate 2022,EP2,EP2 - B,Areia muito grossa,22.92
+6° Resgate 2022,EP2,EP2 - B,Cascalho muito fino,14.74
+6° Resgate 2022,EP1,EP1 - B,Areia média,32.43
+6° Resgate 2022,EP1,EP1 - B,Cascalho médio,0.0
+6° Resgate 2022,EP1,EP1 - B,Cascalho muito grosso,0.0
+6° Resgate 2022,EP1,EP1 - A,Argila,0.69
+6° Resgate 2022,EP1,EP1 - A,Silte muito fino,0.71
+6° Resgate 2022,EP1,EP1 - A,Silte fino,0.15
+6° Resgate 2022,EP1,EP1 - A,Silte médio,0.09
+6° Resgate 2022,EP1,EP1 - A,Silte grosso,0.13
+6° Resgate 2022,EP1,EP1 - A,Silte muito grosso,0.04
+6° Resgate 2022,EP1,EP1 - A,CaCO3,36.27
+6° Resgate 2022,EP1,EP1 - A,Matéria orgânica,1.27
+6° Resgate 2022,EP1,EP1 - A,Cascalho grosso,0.0
+6° Resgate 2022,EP1,EP1 - A,Areia muito fina,1.4
+6° Resgate 2022,EP1,EP1 - A,Areia fina,9.97
+6° Resgate 2022,EP1,EP1 - A,Areia média,29.65
+6° Resgate 2022,EP1,EP1 - A,Areia grossa,39.42
+6° Resgate 2022,EP1,EP1 - A,Areia muito grossa,11.74
+6° Resgate 2022,EP1,EP1 - A,Cascalho muito fino,6.0
+6° Resgate 2022,EP1,EP1 - A,Cascalho fino,0.0
+6° Resgate 2022,EP1,EP1 - A,Cascalho médio,0.0
+6° Resgate 2022,EP1,EP1 - A,Cascalho muito grosso,0.0
+6° Resgate 2022,EP1,EP1 - B,Cascalho fino,0.0
+6° Resgate 2022,EP1,EP1 - B,Cascalho muito fino,5.19
+6° Resgate 2022,EP1,EP1 - B,Areia muito grossa,9.66
+6° Resgate 2022,EP1,EP1 - B,Areia grossa,37.25
+6° Resgate 2022,EP1,EP1 - B,Argila,0.73
+6° Resgate 2022,EP1,EP1 - B,Silte muito fino,0.75
+6° Resgate 2022,EP1,EP1 - B,Silte fino,0.09
+6° Resgate 2022,EP1,EP1 - B,Silte médio,0.07
+6° Resgate 2022,EP1,EP1 - B,Silte muito grosso,0.0
+6° Resgate 2022,EP1,EP1 - B,CaCO3,37.58
+6° Resgate 2022,EP1,EP1 - B,Matéria orgânica,1.27
+6° Resgate 2022,EP1,EP1 - B,Cascalho grosso,0.0
+6° Resgate 2022,EP1,EP1 - B,Areia muito fina,1.22
+6° Resgate 2022,EP1,EP1 - B,Areia fina,12.47
+6° Resgate 2022,EP1,EP1 - B,Silte grosso,0.14
+7° Resgate 2022,EP2,EP2 - B,Areia grossa,25.99
+7° Resgate 2022,EP2,EP2 - A,Silte médio,0.04
+7° Resgate 2022,EP2,EP2 - A,Silte fino,0.06
+7° Resgate 2022,EP2,EP2 - A,Silte muito fino,1.16
+7° Resgate 2022,EP2,EP2 - A,Argila,1.12
+7° Resgate 2022,EP2,EP2 - B,Cascalho muito grosso,0.0
+7° Resgate 2022,EP2,EP2 - B,Cascalho médio,0.0
+7° Resgate 2022,EP2,EP2 - B,Cascalho fino,0.0
+7° Resgate 2022,EP2,EP2 - B,Cascalho muito fino,10.59
+7° Resgate 2022,EP2,EP2 - B,Areia muito grossa,17.07
+7° Resgate 2022,EP2,EP2 - A,Silte grosso,0.08
+7° Resgate 2022,EP2,EP2 - A,Silte muito grosso,0.0
+7° Resgate 2022,EP2,EP2 - A,Cascalho muito grosso,0.0
+7° Resgate 2022,EP2,EP2 - A,Cascalho médio,0.0
+7° Resgate 2022,EP2,EP2 - A,Cascalho fino,0.0
+7° Resgate 2022,EP2,EP2 - A,Cascalho muito fino,11.67
+7° Resgate 2022,EP2,EP2 - A,Areia muito grossa,32.5
+7° Resgate 2022,EP2,EP2 - A,Areia grossa,32.59
+7° Resgate 2022,EP2,EP2 - A,Areia média,15.67
+7° Resgate 2022,EP2,EP2 - A,Areia fina,4.42
+7° Resgate 2022,EP2,EP2 - A,Areia muito fina,0.68
+7° Resgate 2022,EP2,EP2 - A,Cascalho grosso,0.0
+7° Resgate 2022,EP2,EP2 - A,Matéria orgânica,2.3
+7° Resgate 2022,EP2,EP2 - A,CaCO3,98.81
+7° Resgate 2022,EP2,EP2 - B,Areia média,25.73
+7° Resgate 2022,EP2,EP2 - B,Areia fina,15.81
+7° Resgate 2022,EP2,EP2 - B,Areia muito fina,2.45
+7° Resgate 2022,EP2,EP2 - B,Cascalho grosso,0.0
+7° Resgate 2022,EP2,EP2 - B,Matéria orgânica,2.6
+7° Resgate 2022,EP2,EP2 - B,CaCO3,98.38
+7° Resgate 2022,EP2,EP2 - B,Silte muito grosso,0.0
+7° Resgate 2022,EP2,EP2 - B,Silte grosso,0.11
+7° Resgate 2022,EP2,EP2 - B,Silte fino,0.08
+7° Resgate 2022,EP2,EP2 - B,Silte muito fino,1.04
+7° Resgate 2022,EP2,EP2 - B,Argila,1.0
+7° Resgate 2022,EP2,EP2 - B,Silte médio,0.11
+7° Resgate 2022,EP1,EP1 - B,Silte grosso,0.08
+7° Resgate 2022,EP1,EP1 - B,Silte muito grosso,0.03
+7° Resgate 2022,EP1,EP1 - B,CaCO3,42.68
+7° Resgate 2022,EP1,EP1 - B,Matéria orgânica,1.5
+7° Resgate 2022,EP1,EP1 - B,Cascalho grosso,0.0
+7° Resgate 2022,EP1,EP1 - B,Areia muito fina,1.96
+7° Resgate 2022,EP1,EP1 - B,Areia fina,12.57
+7° Resgate 2022,EP1,EP1 - B,Areia muito grossa,11.19
+7° Resgate 2022,EP1,EP1 - B,Areia grossa,43.02
+7° Resgate 2022,EP1,EP1 - B,Cascalho muito fino,2.5
+7° Resgate 2022,EP1,EP1 - B,Cascalho fino,0.0
+7° Resgate 2022,EP1,EP1 - B,Cascalho médio,0.0
+7° Resgate 2022,EP1,EP1 - B,Cascalho muito grosso,0.0
+7° Resgate 2022,EP1,EP1 - A,Argila,1.21
+7° Resgate 2022,EP1,EP1 - A,Silte muito fino,1.26
+7° Resgate 2022,EP1,EP1 - A,Silte fino,0.12
+7° Resgate 2022,EP1,EP1 - A,Silte médio,0.18
+7° Resgate 2022,EP1,EP1 - B,Areia média,26.36
+7° Resgate 2022,EP1,EP1 - B,Silte médio,0.09
+7° Resgate 2022,EP1,EP1 - B,Silte muito fino,1.06
+7° Resgate 2022,EP1,EP1 - B,Argila,1.02
+7° Resgate 2022,EP1,EP1 - A,Cascalho muito grosso,0.0
+7° Resgate 2022,EP1,EP1 - A,Cascalho médio,0.0
+7° Resgate 2022,EP1,EP1 - A,Cascalho fino,0.0
+7° Resgate 2022,EP1,EP1 - A,Cascalho muito fino,0.95
+7° Resgate 2022,EP1,EP1 - A,Areia muito grossa,6.68
+7° Resgate 2022,EP1,EP1 - A,Areia grossa,40.6
+7° Resgate 2022,EP1,EP1 - A,Areia média,28.91
+7° Resgate 2022,EP1,EP1 - A,Areia fina,16.61
+7° Resgate 2022,EP1,EP1 - A,Areia muito fina,3.34
+7° Resgate 2022,EP1,EP1 - A,Cascalho grosso,0.0
+7° Resgate 2022,EP1,EP1 - A,Matéria orgânica,1.91
+7° Resgate 2022,EP1,EP1 - B,Silte fino,0.11
+7° Resgate 2022,EP1,EP1 - A,CaCO3,41.05
+7° Resgate 2022,EP1,EP1 - A,Silte muito grosso,0.02
+7° Resgate 2022,EP1,EP1 - A,Silte grosso,0.13
+8° Resgate 2022,EP2,EP2 - B,Silte muito fino,0.89
+8° Resgate 2022,EP2,EP2 - A,Areia grossa,31.87
+8° Resgate 2022,EP2,EP2 - A,Areia muito grossa,22.65
+8° Resgate 2022,EP2,EP2 - A,Cascalho muito fino,9.22
+8° Resgate 2022,EP2,EP2 - A,Cascalho fino,0.0
+8° Resgate 2022,EP2,EP2 - A,Cascalho médio,0.0
+8° Resgate 2022,EP2,EP2 - A,Cascalho muito grosso,0.0
+8° Resgate 2022,EP2,EP2 - B,Argila,0.86
+8° Resgate 2022,EP2,EP2 - A,Areia média,26.74
+8° Resgate 2022,EP2,EP2 - A,Areia fina,6.93
+8° Resgate 2022,EP2,EP2 - A,Cascalho grosso,0.0
+8° Resgate 2022,EP2,EP2 - A,Areia muito fina,0.59
+8° Resgate 2022,EP2,EP2 - A,Silte muito fino,0.91
+8° Resgate 2022,EP2,EP2 - A,Argila,0.88
+8° Resgate 2022,EP2,EP2 - B,Cascalho muito grosso,0.0
+8° Resgate 2022,EP2,EP2 - B,Cascalho médio,0.0
+8° Resgate 2022,EP2,EP2 - B,Cascalho fino,0.0
+8° Resgate 2022,EP2,EP2 - B,Cascalho muito fino,8.91
+8° Resgate 2022,EP2,EP2 - A,Silte fino,0.06
+8° Resgate 2022,EP2,EP2 - B,Areia muito grossa,22.47
+8° Resgate 2022,EP2,EP2 - B,Areia grossa,31.75
+8° Resgate 2022,EP2,EP2 - B,Areia média,26.99
+8° Resgate 2022,EP2,EP2 - B,Areia fina,7.42
+8° Resgate 2022,EP2,EP2 - B,Areia muito fina,0.58
+8° Resgate 2022,EP2,EP2 - B,Matéria orgânica,6.81
+8° Resgate 2022,EP2,EP2 - B,CaCO3,96.67
+8° Resgate 2022,EP2,EP2 - B,Cascalho grosso,0.0
+8° Resgate 2022,EP2,EP2 - A,Matéria orgânica,1.47
+8° Resgate 2022,EP2,EP2 - A,CaCO3,98.74
+8° Resgate 2022,EP2,EP2 - A,Silte médio,0.07
+8° Resgate 2022,EP2,EP2 - A,Silte grosso,0.08
+8° Resgate 2022,EP2,EP2 - A,Silte muito grosso,0.0
+8° Resgate 2022,EP2,EP2 - B,Silte médio,0.02
+8° Resgate 2022,EP2,EP2 - B,Silte grosso,0.05
+8° Resgate 2022,EP2,EP2 - B,Silte muito grosso,0.01
+8° Resgate 2022,EP2,EP2 - B,Silte fino,0.06
+8° Resgate 2022,EP1,EP1 - A,Silte muito fino,0.88
+8° Resgate 2022,EP1,EP1 - A,Silte fino,0.07
+8° Resgate 2022,EP1,EP1 - A,Silte médio,0.1
+8° Resgate 2022,EP1,EP1 - A,Silte grosso,0.08
+8° Resgate 2022,EP1,EP1 - A,Silte muito grosso,0.09
+8° Resgate 2022,EP1,EP1 - A,CaCO3,25.91
+8° Resgate 2022,EP1,EP1 - A,Matéria orgânica,0.77
+8° Resgate 2022,EP1,EP1 - A,Cascalho grosso,0.0
+8° Resgate 2022,EP1,EP1 - A,Areia muito fina,1.26
+8° Resgate 2022,EP1,EP1 - A,Areia fina,5.39
+8° Resgate 2022,EP1,EP1 - A,Areia média,25.85
+8° Resgate 2022,EP1,EP1 - A,Areia grossa,51.48
+8° Resgate 2022,EP1,EP1 - A,Areia muito grossa,10.62
+8° Resgate 2022,EP1,EP1 - A,Cascalho muito fino,3.33
+8° Resgate 2022,EP1,EP1 - A,Cascalho fino,0.0
+8° Resgate 2022,EP1,EP1 - A,Cascalho médio,0.0
+8° Resgate 2022,EP1,EP1 - A,Argila,0.85
+8° Resgate 2022,EP1,EP1 - A,Cascalho muito grosso,0.0
+8° Resgate 2022,EP1,EP1 - B,Cascalho muito grosso,0.0
+8° Resgate 2022,EP1,EP1 - B,Cascalho médio,0.0
+8° Resgate 2022,EP1,EP1 - B,Cascalho fino,0.0
+8° Resgate 2022,EP1,EP1 - B,Cascalho muito fino,4.16
+8° Resgate 2022,EP1,EP1 - B,Areia muito grossa,15.37
+8° Resgate 2022,EP1,EP1 - B,Areia grossa,61.74
+8° Resgate 2022,EP1,EP1 - B,Areia média,14.84
+8° Resgate 2022,EP1,EP1 - B,Areia fina,2.23
+8° Resgate 2022,EP1,EP1 - B,Areia muito fina,0.31
+8° Resgate 2022,EP1,EP1 - B,Cascalho grosso,0.0
+8° Resgate 2022,EP1,EP1 - B,Matéria orgânica,0.88
+8° Resgate 2022,EP1,EP1 - B,CaCO3,16.14
+8° Resgate 2022,EP1,EP1 - B,Silte muito grosso,0.01
+8° Resgate 2022,EP1,EP1 - B,Silte grosso,0.02
+8° Resgate 2022,EP1,EP1 - B,Silte médio,0.01
+8° Resgate 2022,EP1,EP1 - B,Silte fino,0.03
+8° Resgate 2022,EP1,EP1 - B,Silte muito fino,0.66
+8° Resgate 2022,EP1,EP1 - B,Argila,0.63
+9° Resgate 2022,EP1,EP1 - A,Silte fino,0.16
+9° Resgate 2022,EP2,EP2 - A,Argila,1.3
+9° Resgate 2022,EP2,EP2 - A,Silte muito fino,1.34
+9° Resgate 2022,EP2,EP2 - A,CaCO3,99.32
+9° Resgate 2022,EP1,EP1 - B,Cascalho muito grosso,0.0
+9° Resgate 2022,EP1,EP1 - B,Cascalho médio,0.0
+9° Resgate 2022,EP1,EP1 - B,Cascalho fino,0.0
+9° Resgate 2022,EP1,EP1 - B,Cascalho muito fino,2.87
+9° Resgate 2022,EP1,EP1 - B,Areia muito grossa,9.47
+9° Resgate 2022,EP1,EP1 - B,Areia grossa,45.34
+9° Resgate 2022,EP1,EP1 - B,Areia média,24.68
+9° Resgate 2022,EP1,EP1 - B,Areia fina,12.75
+9° Resgate 2022,EP1,EP1 - B,Areia muito fina,2.27
+9° Resgate 2022,EP2,EP2 - A,Silte muito grosso,0.2
+9° Resgate 2022,EP2,EP2 - A,Silte grosso,0.3
+9° Resgate 2022,EP2,EP2 - A,Silte médio,0.28
+9° Resgate 2022,EP2,EP2 - A,Silte fino,0.32
+9° Resgate 2022,EP2,EP2 - A,Matéria orgânica,2.28
+9° Resgate 2022,EP1,EP1 - B,Argila,1.15
+9° Resgate 2022,EP1,EP1 - B,Silte muito fino,1.19
+9° Resgate 2022,EP1,EP1 - B,Silte fino,0.08
+9° Resgate 2022,EP1,EP1 - B,Silte médio,0.1
+9° Resgate 2022,EP1,EP1 - B,Cascalho grosso,0.0
+9° Resgate 2022,EP1,EP1 - B,Matéria orgânica,1.51
+9° Resgate 2022,EP1,EP1 - B,CaCO3,36.17
+9° Resgate 2022,EP1,EP1 - B,Silte muito grosso,0.04
+9° Resgate 2022,EP1,EP1 - B,Silte grosso,0.05
+9° Resgate 2022,EP2,EP2 - A,Cascalho grosso,0.0
+9° Resgate 2022,EP2,EP2 - A,Areia muito fina,0.56
+9° Resgate 2022,EP2,EP2 - A,Areia fina,5.78
+9° Resgate 2022,EP1,EP1 - A,Silte muito fino,1.25
+9° Resgate 2022,EP1,EP1 - A,Argila,1.2
+9° Resgate 2022,EP2,EP2 - B,Cascalho muito grosso,0.0
+9° Resgate 2022,EP2,EP2 - B,Cascalho médio,0.0
+9° Resgate 2022,EP2,EP2 - B,Cascalho fino,0.0
+9° Resgate 2022,EP2,EP2 - B,Cascalho muito fino,10.5
+9° Resgate 2022,EP2,EP2 - B,Areia muito grossa,21.92
+9° Resgate 2022,EP2,EP2 - B,Areia grossa,32.65
+9° Resgate 2022,EP2,EP2 - B,Areia média,23.98
+9° Resgate 2022,EP2,EP2 - B,Areia fina,6.78
+9° Resgate 2022,EP2,EP2 - B,Areia muito fina,0.6
+9° Resgate 2022,EP2,EP2 - B,Cascalho grosso,0.0
+9° Resgate 2022,EP2,EP2 - B,Matéria orgânica,2.15
+9° Resgate 2022,EP2,EP2 - B,CaCO3,99.46
+9° Resgate 2022,EP2,EP2 - B,Silte muito grosso,0.25
+9° Resgate 2022,EP2,EP2 - B,Silte grosso,0.35
+9° Resgate 2022,EP2,EP2 - B,Silte médio,0.27
+9° Resgate 2022,EP2,EP2 - B,Silte fino,0.35
+9° Resgate 2022,EP2,EP2 - B,Silte muito fino,1.19
+9° Resgate 2022,EP2,EP2 - B,Argila,1.15
+9° Resgate 2022,EP2,EP2 - A,Cascalho muito grosso,0.0
+9° Resgate 2022,EP2,EP2 - A,Cascalho médio,0.0
+9° Resgate 2022,EP2,EP2 - A,Cascalho fino,0.0
+9° Resgate 2022,EP2,EP2 - A,Cascalho muito fino,9.91
+9° Resgate 2022,EP2,EP2 - A,Areia muito grossa,22.91
+9° Resgate 2022,EP2,EP2 - A,Areia grossa,32.41
+9° Resgate 2022,EP2,EP2 - A,Areia média,24.69
+9° Resgate 2022,EP1,EP1 - A,Silte médio,0.08
+9° Resgate 2022,EP1,EP1 - A,Silte grosso,0.16
+9° Resgate 2022,EP1,EP1 - A,Silte muito grosso,0.09
+9° Resgate 2022,EP1,EP1 - A,CaCO3,36.88
+9° Resgate 2022,EP1,EP1 - A,Matéria orgânica,1.29
+9° Resgate 2022,EP1,EP1 - A,Cascalho grosso,0.0
+9° Resgate 2022,EP1,EP1 - A,Areia muito fina,3.05
+9° Resgate 2022,EP1,EP1 - A,Areia fina,12.13
+9° Resgate 2022,EP1,EP1 - A,Areia média,24.21
+9° Resgate 2022,EP1,EP1 - A,Areia grossa,44.4
+9° Resgate 2022,EP1,EP1 - A,Areia muito grossa,9.7
+9° Resgate 2022,EP1,EP1 - A,Cascalho muito fino,3.56
+9° Resgate 2022,EP1,EP1 - A,Cascalho fino,0.0
+9° Resgate 2022,EP1,EP1 - A,Cascalho médio,0.0
+9° Resgate 2022,EP1,EP1 - A,Cascalho muito grosso,0.0
